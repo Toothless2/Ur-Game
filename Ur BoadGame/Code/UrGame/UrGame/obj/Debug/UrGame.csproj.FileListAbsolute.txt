@@ -5,3 +5,8 @@ C:\Users\Toothless\Documents\GitHub\Ur BoadGame\Code\UrGame\UrGame\obj\Debug\UrG
 C:\Users\Toothless\Documents\GitHub\Ur BoadGame\Ur\Assets\Plugins\UrGame.dll
 C:\Users\Toothless\Documents\GitHub\Ur BoadGame\Ur\Assets\Plugins\UrGame.pdb
 C:\Users\Toothless\Documents\GitHub\Ur BoadGame\Code\UrGame\UrGame\obj\Debug\UrGame.csprojResolveAssemblyReference.cache
+C:\Users\Toothless\Documents\GitHub\Ur-Game\Ur BoadGame\Ur\Assets\Plugins\UrGame.dll
+C:\Users\Toothless\Documents\GitHub\Ur-Game\Ur BoadGame\Ur\Assets\Plugins\UrGame.pdb
+C:\Users\Toothless\Documents\GitHub\Ur-Game\Ur BoadGame\Code\UrGame\UrGame\obj\Debug\UrGame.dll
+C:\Users\Toothless\Documents\GitHub\Ur-Game\Ur BoadGame\Code\UrGame\UrGame\obj\Debug\UrGame.pdb
+C:\Users\Toothless\Documents\GitHub\Ur-Game\Ur BoadGame\Code\UrGame\UrGame\obj\Debug\UrGame.csprojResolveAssemblyReference.cache
